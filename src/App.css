@@ -72,6 +72,9 @@ body {
   font-size: 16px;
   font-weight: 700;
   padding: 3px 9px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
 
 .movie-card-rating {
@@ -80,4 +83,8 @@ body {
   display: flex;
   justify-content: flex-end;
   padding: 12px 20px;
+}
+
+.icons-img {
+  max-width: 20px;
 }
