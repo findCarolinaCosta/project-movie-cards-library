@@ -6,7 +6,7 @@ body {
 
 .movie-card-header {
   align-items: center;
-  background-color: #343a40;
+  background-color: #cecece;
   display: flex;
   height: 100px;
   justify-content: center;
@@ -75,7 +75,7 @@ body {
 }
 
 .movie-card-rating {
-  background-color: rgba(0, 0, 0, 0.03);
+  background-color: rgba(112, 112, 112, 0.03);
   border-top: 1px solid rgba(0, 0, 0, 0.125);
   display: flex;
   justify-content: flex-end;
